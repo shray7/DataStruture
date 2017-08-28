@@ -1,0 +1,7 @@
+C:\Temp\Playground\Playground\Playground\bin\Debug\netstandard1.4\Playground.deps.json
+C:\Temp\Playground\Playground\Playground\bin\Debug\netstandard1.4\Playground.dll
+C:\Temp\Playground\Playground\Playground\bin\Debug\netstandard1.4\Playground.pdb
+C:\Temp\Playground\Playground\Playground\obj\Debug\netstandard1.4\Playground.csprojResolveAssemblyReference.cache
+C:\Temp\Playground\Playground\Playground\obj\Debug\netstandard1.4\Playground.AssemblyInfo.cs
+C:\Temp\Playground\Playground\Playground\obj\Debug\netstandard1.4\Playground.dll
+C:\Temp\Playground\Playground\Playground\obj\Debug\netstandard1.4\Playground.pdb
